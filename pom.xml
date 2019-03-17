@@ -12,6 +12,7 @@
         <module>observer</module>
         <module>singleton</module>
         <module>prototype</module>
+        <module>templateMethod</module>
     </modules>
 
 </project>
