@@ -11,7 +11,7 @@
     <modules>
         <module>observer</module>
         <module>singleton</module>
-        <module>prototype</module>
+        <module>protoType</module>
         <module>templateMethod</module>
         <module>factory</module>
     </modules>
